@@ -1,0 +1,101 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:300,400,900);
+@import url(https://fonts.googleapis.com/css?family=Audiowide);
+
+
+/*==================================== 
+  Some styles to spruce up the demo
+=====================================*/ 
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #f2f1f1;
+  color: #5E5E5E; 
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  text-shadow: 1px 1px 1px #fff;
+  text-align: center;
+}
+
+h1 { 
+    font-size: 1.5em;
+    font-size: 4vw;
+    line-height: 1.2; 
+    margin: 0;
+}
+
+h1 { 
+  color: #000000;
+  font-family: "Audiowide", cursive;
+  font-weight: 900;
+  margin: 0.5em 0 2.5em;
+}
+h1 span {
+  color: #00c8b0;
+}
+
+.wrap {
+  padding: 1em;
+  text-align: center;
+}
+
+.trigger {
+  background: #fff;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.15);
+  display: inline-block;
+  padding: 1em;
+}
+
+.trigger > span {
+  background: #00c8b0;
+  border: 1px solid #60ca45;
+  border-radius: .2em;
+  color: #000000;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: bold;
+  padding: 0.75em 1.5em;
+  text-shadow: 1px 1px 1px #fff;
+  transition: all 0.55s;
+}
+
+.trigger > span:hover {
+  transform: scale(0.97);
+}
+
+.trigger:focus ~ span {
+  transform: scale(0.97);
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+  text-decoration: none;
+  color: inherit;
+}
+
+.header-top {
+  background-color: f2f1f1;
+  padding: 20px;
+  color: #fff;
+  line-height: 35px;
+  text-align: left;
+}
+
+.cl-logo-wrap {
+  background: #fff;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.15);
+  display: inline-block;
+  padding: 1em;
+  padding-right: 1.6em;
+}
+
+.github-logo-wrap {
+  background: #fff;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.15);
+  padding: 1em;
+  float: right;
+  padding-bottom: .5em;
+}
+
