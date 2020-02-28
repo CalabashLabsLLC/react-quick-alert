@@ -1,9 +1,10 @@
 {
   "name": "react-quick-alert",
   "version": "1.0.0",
-  "description": "Useful react snackbar.",
+  "description": "Lightweight react snackbar.",
   "author": "calabashlabsllc",
   "license": "MIT",
+  "homepage": "https://github.com/CalabashLabsLLC/react-quick-alert",
   "repository": "calabashlabsllc/react-quick-alert",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
