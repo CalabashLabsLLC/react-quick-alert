@@ -11,7 +11,9 @@ npm install --save react-quick-alert
 ```
 
 ### Usage
-See Demo Example [Here](https://github.com/CalabashLabsLLC/react-quick-alert/tree/master/example)
+[Demo](https://calabashlabsllc.github.io/react-quick-alert)
+
+Demo Example Code [Here](https://github.com/CalabashLabsLLC/react-quick-alert/tree/master/example)
 ```
   this.state = {
     alertShown: false,
