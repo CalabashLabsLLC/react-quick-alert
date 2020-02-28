@@ -4,40 +4,6 @@
 
 [![NPM](https://img.shields.io/npm/v/react-quick-alert.svg)](https://www.npmjs.com/package/react-quick-alert) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-## Install
-
-```bash
-npm install --save react-quick-alert
-```
-
-## Usage
-
-```jsx
-import React, { Component } from 'react'
-
-import MyComponent from 'react-quick-alert'
-
-class Example extends Component {
-  render () {
-    return (
-      <MyComponent />
-    )
-  }
-}
-```
-
-## License
-
-MIT © [calabashlabsllc](https://github.com/calabashlabsllc)
-
-## Thanks for visiting
-
-A react pure css snack bar quick alert. Lightweight and easily reusable.
-
-[Demo](https://calabashlabsllc.github.io/react-quick-alert/)
-
-[![NPM](https://img.shields.io/npm/v/react-quick-alert.svg)](https://www.npmjs.com/package/react-quick-alert) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-
 ### Install
 
 ```bash
