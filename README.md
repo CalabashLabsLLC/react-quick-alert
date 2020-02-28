@@ -1,6 +1,6 @@
 # react-quick-alert
 
-> Useful react snackbar.
+> Lightweight react snackbar.
 
 [![NPM](https://img.shields.io/npm/v/react-quick-alert.svg)](https://www.npmjs.com/package/react-quick-alert) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
