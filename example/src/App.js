@@ -31,8 +31,8 @@ export default class App extends Component {
     return (
       <div>
         <div className="header-top">
-          <div className="cl-logo-wrap"><img src={logo} width="115px" alt="Calabash Labs Logo" /></div>
-          <div className="github-logo-wrap"><a href="https://calabashlabsllc.github.io/react-quick-alert/"><img src={github} className="github-logo" alt="Github Logo" /></a></div>
+        <div className="cl-logo-wrap"><a href="https://calabashlabsllc.github.io"><img src={logo} width="115px" alt="Calabash Labs Logo" /></a></div>
+          <div className="github-logo-wrap"><a href="https://github.com/CalabashLabsLLC/react-quick-alert/"><img src={github} className="github-logo" alt="Github Logo" /></a></div>
         </div>
         <div className="wrap">
           <h1>Light <span>JS/CSS</span> Quick Alert</h1>
