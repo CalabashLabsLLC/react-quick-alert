@@ -35,7 +35,7 @@ export default class App extends Component {
           <div className="github-logo-wrap"><a href="https://calabashlabsllc.github.io/react-quick-alert/"><img src={github} className="github-logo" alt="Github Logo" /></a></div>
         </div>
         <div className="wrap">
-          <h1>Pure <span>CSS</span> Quick Alert</h1>
+          <h1>Light <span>JS/CSS</span> Quick Alert</h1>
           <div className="trigger"><span onClick={() => this.showAlert("Thanks for visiting!")}>Launch Alert</span></div>
           <QuickAlert
             show={this.state.alertShown}
